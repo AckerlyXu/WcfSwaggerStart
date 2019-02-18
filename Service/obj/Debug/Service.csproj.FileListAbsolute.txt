@@ -1,0 +1,12 @@
+D:\develop\vsworkspace\WcfSwaggerStart\Service\bin\Debug\Service.dll
+D:\develop\vsworkspace\WcfSwaggerStart\Service\bin\Debug\Service.pdb
+D:\develop\vsworkspace\WcfSwaggerStart\Service\bin\Debug\Newtonsoft.Json.dll
+D:\develop\vsworkspace\WcfSwaggerStart\Service\bin\Debug\ServiceInterface.dll
+D:\develop\vsworkspace\WcfSwaggerStart\Service\bin\Debug\SwaggerWcf.dll
+D:\develop\vsworkspace\WcfSwaggerStart\Service\bin\Debug\ServiceInterface.pdb
+D:\develop\vsworkspace\WcfSwaggerStart\Service\bin\Debug\Newtonsoft.Json.xml
+D:\develop\vsworkspace\WcfSwaggerStart\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\develop\vsworkspace\WcfSwaggerStart\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\develop\vsworkspace\WcfSwaggerStart\Service\obj\Debug\Service.csproj.CopyComplete
+D:\develop\vsworkspace\WcfSwaggerStart\Service\obj\Debug\Service.dll
+D:\develop\vsworkspace\WcfSwaggerStart\Service\obj\Debug\Service.pdb
